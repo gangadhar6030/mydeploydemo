@@ -1,0 +1,26 @@
+{
+  "name": "mydeploydemo",
+  "version": "1.0.0",
+  "description": "gangadhar demo",
+  "main": "helloworld.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gangadhar6030/mydeploydemo.git"
+  },
+  "keywords": [
+    "ganga"
+  ],
+  "author": "gangadhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gangadhar6030/mydeploydemo/issues"
+  },
+  "homepage": "https://github.com/gangadhar6030/mydeploydemo#readme"
+}
